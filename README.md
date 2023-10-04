@@ -18,8 +18,9 @@
 					<li>	<a href = "#Trabajos" > Trabajos </a> 	</li> 
 					<li>	<a href = "#SobreMi" > Sobre Mi </a>	</li>
 					<li>	<a href = "#Contacto" > Contacto </a>	</li>
-					<li>	<a href = file:///C:/Users/estudiante/Documents/GitHub/mi-perfil/tabla1.html title = "Google"> Ir a tablas 1 </a>
-					<li>	<a href = file:///C:/Users/estudiante/Documents/GitHub/mi-perfil/Tabla2.html title = "Google"> Ir a tablas 2 </a>
+					
+				          <li><a href="tabla1.html" title="Ir a tablas 1">Ir a tablas 1</a></li>
+                                         <li><a href="tabla2.html" title="Ir a tablas 2">Ir a tablas 2</a></li>
 					
 				
 
