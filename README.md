@@ -63,8 +63,6 @@
 	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg" alt="messi" height="250px"/>
 	
 	
-	
-	</body>
 		<p> Me llamo Santiago Sanchez tengo 18 años tengo muchas aspiraciones una es ser programador poder dedicarme a esto que  me gusta mucho, 
 		Soy una persona apasionada por los deportes como el fútbol, el vóley entre otros. Actualmente estudio mi ultimo año de secundaria y busco
         varias alternativas para estudiar porque nunca se deja de aprender algo nuevo</p>
