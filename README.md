@@ -74,7 +74,7 @@
 		 <body>
     <nav>
        
-          <P>  <a href = "https://www.instagram.com/__santiago_sanchez/ title" = "Google"> @__santiago_sanchez </a> </p>
+          <li>  <a href = https://www.instagram.com/__santiago_sanchez/ title = "Google"> @__santiago_sanchez </a> </li>
          
     
     </nav>
