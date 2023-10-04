@@ -59,7 +59,7 @@
 		</section>
 	<h1 id = Sobre mi: style="color: red; #FF0000  "> Sobre mi: </h1>
 		
-    <img src="C:\Users\estudiante\Documents\GitHub\indext.html\mi-perfil\img\IMG_20230905_143958_839.jpg" alt="mi foto" width="150" height="250px"/>
+    <img src="https://lh3.googleusercontent.com/pw/ADCreHet9Eof9wNWVu07qghBL_hQVWKyl0wmCcZZQICmVE1-S6d7wKXnv7FYgiUKYCtMqPH9jaq16PeQTEWUxClUmJcwxXapFY8lfL95ZS6E_-lxBTvN4YmOQAzIAjv2mzb5DwuWlgLBG2IYtlb7L5T95O3OaFIsj2_HOnLWlvCDL0a3pR9fVGX7VYykCIbe5eNC1W73wX2KHt0WPaDEvPHat2cE3IvUjozev1NRA5Jr-cJ7ZGSRd-w7JXj4I9ePYrhHWXFCDhEt04ek3tPx0RZ5A-K-ka-QD-t49BvQtCAqqbFZE-3a3Wd7SrYjIWpl7MjaMdcRxfxSKCzYN9-2hm8-Klvli3NIb3KXWYJRfafg4V9p5LgE4BNSS9X8aED89cAK9UNpx8BO4b2XX5G5X6Jyv6SjP4iVguucNeOm7G-lpylN4KCSPZoqwqGNsvM0L0-JfCBX_FmtKXTx8NOURmJI_LMa0UuUpe4dcSox-vKnwL6vLsk5IkqTm-OGkIZyyLw7l1hO3xyqpmfL9LGBmlS57M7vmtVi-ZAU8nBCNhhrQlYX2LxRrNFLJ6hqbOiLgJoZ5YE01YQ5P_ZR9zx16RDhvX-7XHN3OfzEWQGYJaqnx6rf46UZveYmK-qg2US4DAoOwEL0gjRlM2G21LMSLi8YgOVjhRvswQBypm_It4rjpyXB0hxplVqABIoH12AtWl2tbPL0qo0vBK8VSby7pXKyDKLJev3nX01OHePSgp99txq5zbhEPox47ImtJ32pXL0nNDcra8O25BYAJxtAasKjGBO0lqrrmxa6Q_KblaGC_bPQBCnBh2BYAJ_79J_2QyYggZa9vloBTy3SdvWna4APKWqdBpS0MXPwZTUW4rDFJAqPdi_QTiq3TCSv-mpREBHDbiRdiGu9dDa2XS3aAlRsM8YyUE4=w362-h643-s-no?authuser=0" alt="mi foto" width="150" height="250px"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg" alt="messi" height="250px"/>
 	
 	
