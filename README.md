@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <header>
-<img src="img/despertar.jpg"alt="logo" height="100px"
->
+<img src="img/despertar.jpg"alt="logo" height="100px"/>
 
  
 </head>
@@ -40,7 +39,7 @@
 </body>
 
         <section>
-		<h1><b><h1 id = Trabajos: style="color:green; #0f0  "> Trabajos: </h1></b> </h1>
+		<h1><b><h1 id = Trabajos: style="color green  "> Trabajos: </h1></b> </h1>
 		<article>
 		<h2>Repositor</h2>
 		<p> 
@@ -68,7 +67,7 @@
 		</section>
 	<h1 id = Sobre mi: style="color: red; #FF0000  "> Sobre mi: </h1>
 		
-    <img src="C:\Users\estudiante\Documents\GitHub\indext.html\mi-perfil\img\IMG_20230905_143958_839.jpg"alt="mi foto" width="150" height="250px">
+    <img src="C:\Users\estudiante\Documents\GitHub\indext.html\mi-perfil\img\IMG_20230905_143958_839.jpg" alt="mi foto" width="150" height="250px"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg" alt="messi" height="250px"/>
 	
 	
