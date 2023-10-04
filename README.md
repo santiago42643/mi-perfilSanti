@@ -30,7 +30,7 @@
 </body>
 
         <section>
-		 <h1 Trabajos </h1>
+		 <h1> Trabajos </h1>
 
 		<article>
 		<h2>Repositor</h2>
@@ -74,7 +74,7 @@
 		 <body>
     <nav>
        
-          <P>  <a href = https://www.instagram.com/__santiago_sanchez/ title = "Google"> @__santiago_sanchez </a> </p>
+          <P>  <a href = "https://www.instagram.com/__santiago_sanchez/ title" = "Google"> @__santiago_sanchez </a> </p>
          
     
     </nav>
