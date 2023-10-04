@@ -59,11 +59,12 @@
 <p> Editaba videos de personas en internet  </p>
 </article>
 
-		<section id="Sobre Mi">
+		
+  <section id="Sobre Mi">
 		
 	<h1> <font color="red"> Sobre mi:</font> </h1>
 		
-    <img src="C:\Users\estudiante\Documents\GitHub\indext.html\mi-perfil\img\IMG_20230905_143958_839.jpg" alt="mi foto" width="150" height="250px"/>
+    <img src="https://scontent.faep4-3.fna.fbcdn.net/v/t39.30808-6/361878260_3530555917193454_6640984270754946297_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=a2f6c7&_nc_ohc=JSVlhiLS4GAAX8dL4Kt&_nc_ht=scontent.faep4-3.fna&oh=00_AfC4r64JRSUjGCBlJcUBEJ3jcHF4n-NoL0THaiKYCjpjSA&oe=6521D922" alt="mi foto" width="150" height="250px"/>
 	<img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Lionel-Messi-Argentina-2022-FIFA-World-Cup_%28cropped%29.jpg" alt="messi" height="250px"/>
 	
 	
