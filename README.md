@@ -5,14 +5,14 @@
  
  <body>
     <header>
-        <h1>Menu</h1>
+        <h1> <li><a href="#Menu">Menu</a></li> </h1>
     </header>
 
     
     <nav>
-        <a href="#Trabajos">Trabajos</a>
-        <a href="#Sobre mi">Sobre mi</a>
-        <a href="#Contacto">Contacto</a>
+ <li>  <a href="#Trabajos">Trabajos</a> </li>
+   <li>  <a href="#Sobre mi">Sobre mi</a>  </li>
+       <li> <a href="#Contacto">Contacto</a> </li>
                                                                                            
    <li> <a href="ttps://www.google.com/webhp?hl=es-419&sa=X&ved=0ahUKEwjP3padot2BAxVYpZUCHXhpDSYQPAgJ " style="color: #007bff; text-decoration: none; font-weight: 
                                                      bold;">Ir a Google</a> </li>
