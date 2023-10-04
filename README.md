@@ -60,7 +60,7 @@
 </article>
 
 		
-  <section id="Sobre Mi">
+  <section id="Sobre mi">
 		
 	<h1> <font color="red"> Sobre mi:</font> </h1>
 		
