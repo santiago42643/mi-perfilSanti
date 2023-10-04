@@ -8,9 +8,9 @@
         <ul>
             <li><a href="#">Menu</a></li>
 		
-					<li>	<a href = "#Trabajos" > Trabajos </a> 	</li> 
-					<li>	<a href = "#SobreMi" > Sobre Mi </a>	</li>
-					<li>	<a href = "#Contacto" > Contacto </a>   </li>                                                                                        
+					<li>	<a href = "#Trabajos"> Trabajos </a> 	</li> 
+					<li>	<a href = "#SobreMi"> Sobre Mi </a>	</li>
+					<li>	<a href = "#Contacto"> Contacto </a>   </li>                                                                                        
    <li> <a href="ttps://www.google.com/webhp?hl=es-419&sa=X&ved=0ahUKEwjP3padot2BAxVYpZUCHXhpDSYQPAgJ " style="color: #007bff; text-decoration: none; font-weight: 
                                                      bold;">Ir a Google</a> </li>
 				        
