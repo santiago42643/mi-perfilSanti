@@ -9,7 +9,7 @@
             <li><a href="#">Menu</a></li>
 		
 					<li>	<a href = "#Trabajos"> Trabajos </a> 	</li> 
-					<li>	<a href = "#SobreMi"> Sobre Mi </a>	</li>
+					<li>	<a href = "#Sobre Mi"> Sobre Mi </a>	</li>
 					<li>	<a href = "#Contacto"> Contacto </a>   </li>                                                                                        
    <li> <a href="ttps://www.google.com/webhp?hl=es-419&sa=X&ved=0ahUKEwjP3padot2BAxVYpZUCHXhpDSYQPAgJ " style="color: #007bff; text-decoration: none; font-weight: 
                                                      bold;">Ir a Google</a> </li>
@@ -28,8 +28,8 @@
     </form>
 </body>
 
-        <section>
-		 <h1> <font color="green">Trabajos:</font>
+        <section id="Trabajos">
+		 <h1>  <font color="green">Trabajos:</font>
  </h1>
 
 		<article>
@@ -55,7 +55,7 @@
 <p> Editaba videos de personas en internet  </p>
 </article>
 
-		<article>
+		<article id="Sobre Mi">
 		
 	<h1> <font color="red"> Sobre mi:</font> </h1>
 		
@@ -64,11 +64,11 @@
 	
 	
 		<p> Me llamo Santiago Sanchez tengo 18 años tengo muchas aspiraciones una es ser programador poder dedicarme a esto que  me gusta mucho, 
-		Soy una persona apasionada por los deportes como el fútbol, el vóley entre otros. Actualmente estudio mi ultimo año de secundaria y busco
-        varias alternativas para estudiar porque nunca se deja de aprender algo nuevo</p>
+		Soy una persona apasionada por los deportes como el fútbol (mi idolo es Lionel Messi), el vóley, el basketball, entre otros. Actualmente estudio mi ultimo año de secundaria y busco
+        varias alternativas para estudiar porque nunca se deja de aprender algo nuevo y nunca es tarde  para intetar algo nuevo en la vida.</p>
 		  <h1> <font color="blue">Contacto:</font>  </h1>
 		  <h2><b>Para contactarme pueden escribirme en mis redes o mi numero:</b></h2>
-		  <article>
+		  <article id="Contacto">
 		 <body>
     <nav>
        
