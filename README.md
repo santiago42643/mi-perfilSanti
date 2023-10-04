@@ -5,6 +5,7 @@
  
  <body>
     <header>
+	    <section id="Menu">
         <h1> <li><a href="#Menu">Menu</a></li> </h1>
     </header>
 
@@ -83,7 +84,7 @@
 		 
 		  
 		  
-		  
+		  Si quieres volver al menu presiona <a href="#Menu"> aqui</a>
 		  <footer>© 2023 - santiago</footer>
 		  
  
