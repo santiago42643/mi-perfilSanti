@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es">
 <header>
-<img src="img/despertar.jpg"alt="logo" height="100px"/>
+<img src="https://previews.123rf.com/images/bernardojbp/bernardojbp1604/bernardojbp160400168/55421826-dibujado-a-mano-ilustraci%C3%B3n-o-dibujo-de-un-ojo-humano.jpg" alt="logo" height="100px"
 
  
 </head>
@@ -19,8 +19,8 @@
 					<li>	<a href = "#SobreMi" > Sobre Mi </a>	</li>
 					<li>	<a href = "#Contacto" > Contacto </a>	</li>
 					
-				          <li><a href="tabla1.html" title="Ir a tablas 1">Ir a tablas 1</a></li>
-                                         <li><a href="tabla2.html" title="Ir a tablas 2">Ir a tablas 2</a></li>
+				        <li><a href="tabla1.html" title="Ir a tablas 1">Ir a tablas 1</a></li>
+                                        <li><a href="tabla2.html" title="Ir a tablas 2">Ir a tablas 2</a></li>
 					
 				
 
@@ -40,7 +40,8 @@
 </body>
 
         <section>
-		<h1><b><h1 id = Trabajos: style="color green  "> Trabajos: </h1></b> </h1>
+		 <h1 id = “Trabajo” style="color: red; background: #000000; font-family: fantasy; font-size: 3em"> Trabajos </h1>
+
 		<article>
 		<h2>Repositor</h2>
 		<p> 
