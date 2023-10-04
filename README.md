@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="es">
 <header>
-<img src="https://previews.123rf.com/images/bernardojbp/bernardojbp1604/bernardojbp160400168/55421826-dibujado-a-mano-ilustraci%C3%B3n-o-dibujo-de-un-ojo-humano.jpg" alt="logo" height="100px"/>
+<img src="https://previews.123rf.com/images/bernardojbp/bernardojbp1604/bernardojbp160400168/55421826-dibujado-a-mano-ilustraci%C3%B3n-o-dibujo-de-un-ojo-humano.jpg" alt="logo" height="100px">
 </header>
  
 </head>
     <title>mi perfil</title> 
-
- 
 	
 </head>
 <body>
