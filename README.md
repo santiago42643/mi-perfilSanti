@@ -3,24 +3,23 @@
 <img src="https://previews.123rf.com/images/bernardojbp/bernardojbp1604/bernardojbp160400168/55421826-dibujado-a-mano-ilustraci%C3%B3n-o-dibujo-de-un-ojo-humano.jpg" alt="logo" height="100px">
 </header>
  
-<body>
+<header>
     <nav>
         <ul>
             <li><a href="#">Menu</a></li>
 		
 					<li>	<a href = "#Trabajos" > Trabajos </a> 	</li> 
 					<li>	<a href = "#SobreMi" > Sobre Mi </a>	</li>
-					<li>	<a href = "#Contacto" > Contacto </a>	</li>
-					
-				        <li><a href="tabla1.html" title="Ir a tablas 1">Ir a tablas 1</a></li>
-                                        <li><a href="tabla2.html" title="Ir a tablas 2">Ir a tablas 2</a></li>
-					
+					<li>	<a href = "#Contacto" > Contacto </a>   </li>                                                                                        
+   <li> <a href="ttps://www.google.com/webhp?hl=es-419&sa=X&ved=0ahUKEwjP3padot2BAxVYpZUCHXhpDSYQPAgJ " style="color: #007bff; text-decoration: none; font-weight: 
+                                                     bold;">Ir a Google</a> </li>
+				        
 				
 
          
         </ul>
     </nav>
-</body>
+</header>
 
 <body>
     <form action="/buscar" method="get">
