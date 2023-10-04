@@ -59,7 +59,7 @@
 <p> Editaba videos de personas en internet  </p>
 </article>
 
-		<article id="Sobre Mi">
+		<section id="Sobre Mi">
 		
 	<h1> <font color="red"> Sobre mi:</font> </h1>
 		
