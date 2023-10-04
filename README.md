@@ -7,7 +7,7 @@
     <header>
 	    <section id="Menu">
         <h1> <li><a href="#Menu">Menu</a></li> </h1>
-    </header>
+  
 
     
     <nav>
@@ -23,7 +23,7 @@
          
         
     </nav>
-</body>
+
 
 <body>
     <form action="/buscar" method="get">
