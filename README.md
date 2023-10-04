@@ -75,7 +75,7 @@ Trabajos </h1>
 		 <body>
     <nav>
        
-          <li>  <a href = https://www.instagram.com/__santiago_sanchez/ title = "Google"> @__santiago_sanchez </a> </li>
+          <li>   https://www.instagram.com/__santiago_sanchez/ </li>
          
     
     </nav>
