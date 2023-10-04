@@ -75,8 +75,7 @@
 		 <body>
     <nav>
        
-          <li>   https://www.instagram.com/__santiago_sanchez/ </li>
-         
+<a href=" https://www.instagram.com/__santiago_sanchez/ " style="color: #007bff; text-decoration: none; font-weight: bold;">__santiago_sanchez</a>
     
     </nav>
 		 </article>
