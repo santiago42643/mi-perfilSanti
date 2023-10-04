@@ -30,7 +30,7 @@
 </body>
 
         <section>
-		 <h1 id = “Trabajos" style="color: red; background: #000000; font-family: fantasy; font-size: 3em"> Trabajos </h1>
+		 <h1 Trabajos </h1>
 
 		<article>
 		<h2>Repositor</h2>
