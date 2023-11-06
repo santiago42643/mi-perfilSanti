@@ -83,7 +83,29 @@
 		
 		 <p>Telefono: 1123417131 </p>
 		 
-		  
+		  name: Mi Flujo de Trabajo
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  mi_trabajo:
+    runs-on: ubuntu-latest
+
+    env:
+      MI_VARIABLE: ${{ secrets.MI_SECRETO }}
+
+    steps:
+    - name: Checkout del Código
+      uses: actions/checkout@v2
+
+    - name: Ejecutar algo con la variable
+      run: |
+        echo $MI_VARIABLE
+        # Tu lógica aquí
+
 		  
 		  Si quieres volver al menu presiona <a href="#Menu"> aqui</a>
 		  <footer>© 2023 - santiago</footer>
